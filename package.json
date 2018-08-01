@@ -5,5 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "solc": "^0.4.24"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "2.12"
   }
 }
